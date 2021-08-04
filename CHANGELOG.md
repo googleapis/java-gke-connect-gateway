@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/googleapis/java-gke-connect-gateway/compare/v0.1.0...v0.2.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#29](https://www.github.com/googleapis/java-gke-connect-gateway/issues/29)) ([c021b0c](https://www.github.com/googleapis/java-gke-connect-gateway/commit/c021b0c9d21bee446d23eb11d7639c42c839f6ef))
+
 ## 0.1.0 (2021-07-01)
 
 
