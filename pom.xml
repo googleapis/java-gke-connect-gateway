@@ -60,7 +60,7 @@
       <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-gke-connect-gateway</artifactId>
-        <version>0.4.6</version><!-- {x-version-update:google-cloud-gke-connect-gateway:current} -->
+        <version>0.5.0</version><!-- {x-version-update:google-cloud-gke-connect-gateway:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
