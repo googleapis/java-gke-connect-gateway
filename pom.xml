@@ -65,7 +65,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-gke-connect-gateway-v1beta1</artifactId>
-        <version>0.4.6</version><!-- {x-version-update:grpc-google-cloud-gke-connect-gateway-v1beta1:current} -->
+        <version>0.5.0</version><!-- {x-version-update:grpc-google-cloud-gke-connect-gateway-v1beta1:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
